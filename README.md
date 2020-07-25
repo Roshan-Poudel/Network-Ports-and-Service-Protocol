@@ -31,7 +31,7 @@ List of major Networking Ports and Service that operate in them
 | 110                |    POP3
 | 111                |    Portmapper   
 | 113                |    identd
-| 119                |    NNTP
+| 119                |    NNTP 
 | 123                |    NTP
 | 129                |    Password generator protocol
 | 137                |    NetBIOS
