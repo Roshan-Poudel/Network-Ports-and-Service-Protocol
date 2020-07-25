@@ -53,7 +53,7 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 515                |    Line Printer Daemon
 | 520                |    Router Information Protocol
 | 523                |    IBM DB2
-| 554                |    RTSP
+| 554                |    Real Time Streaming Protocol (RTSP)
 | 587                |    SMTP mail Submission
 | 623                |    Intelligent Platform Management Interface (IPMI)
 | 626                |    OS X serial Numbered
@@ -108,7 +108,7 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 3260               |    iSCSI
 | 3306               |    MySQL Database
 | 3310               |    ClamAV
-| 3386               |    GTPv1
+| 3386               |    GPRS Tunneling Protocol (GTPv1)
 | 3388               |    Remote Desktop Protocl (RDP)
 | 3389               |    Remote Desktop Protocl (RDP)
 | 3460               |    Malware
