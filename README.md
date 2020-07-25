@@ -1,14 +1,14 @@
 # Network-Ports-and-Service-Protocol
 List of major Networking Ports and Service that operate in them
 
-| Network Port  | Service           |
-| ------------- | -------------     |
-| 7             | Echo              |
-| 11            | Sysstat           |
-| 13            | Daytime 
-| 15            | Netstat 
-| 17            | Quote of Day 
-| 19            | Character Generator
+| Network Port       | Service                     |
+| -----------------  |    -------------            |
+| 7                  |    Echo                     |
+| 11                 |    Sysstat                  |
+| 13                 |    Daytime                  |  
+| 15                 |    Netstat                  |  
+| 17                 |    Quote of Day             |  
+| 19                 |    Character Generator      |  
 | 21
 | 22
 | 23
