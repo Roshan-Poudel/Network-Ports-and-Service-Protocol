@@ -38,7 +38,7 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 143                |    IMAP 
 | 161                |    SNMP
 | 175                |    IBM VMNet
-| 179                |    BGP
+| 179                |    Border Gateway Protocl (BGP)
 | 195                |    TA14-353a  
 | 311                |    OS X Server Manager
 | 389                |    Lightweight Directory Access Protocol (LDAP)
