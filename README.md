@@ -1,22 +1,22 @@
 # Network-Ports-and-Service-Protocol
 List of major Networking Ports and Service that operate in them
 
-| Network Port       | Service                           |
-| -----------------  |    -------------                  |
-| 7                  |    Echo                           |
-| 11                 |    Sysstat                        |
-| 13                 |    Daytime                        |  
-| 15                 |    Netstat                        |  
-| 17                 |    Quote of Day                   |  
-| 19                 |    Character Generator            |  
+| Network Port       | Service                                            |
+| -----------------  |    ---------------------------------------         |
+| 7                  |    Echo                                            |
+| 11                 |    Sysstat                                         |
+| 13                 |    Daytime                                         |  
+| 15                 |    Netstat                                         |  
+| 17                 |    Quote of Day                                    |  
+| 19                 |    Character Generator                             |  
 | 21                      File Transfer Protocol
 | 22                      SSH
 | 23                      Telnet
-| 25                      Simple Mail Tranfer Protocl                      
+| 25                      SMTP                     
 | 37                      rdate
 | 49                      TACACS+
-| 53                      Domain Name System (DNS)
-| 67                      Dynamic Host Cnfiguration Protocol (DHCP)
+| 53                      DNS
+| 67                      DHCP
 | 69
 | 70
 | 79
