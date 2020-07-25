@@ -47,7 +47,7 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 444                |    TA14-353a, Dell SonicWALL
 | 445                |    SMB
 | 465                |    SMTPS
-| 500                |    IKE [VPN]
+| 500                |    Internet Key Exchange [VPN]
 | 502                |    Modbus
 | 503                |    MOdbus
 | 515                |    Line Printer Daemon
