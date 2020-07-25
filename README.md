@@ -41,12 +41,12 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 179                |    BGP
 | 195                |    TA14-353a  
 | 311                |    OS X Server Manager
-| 389                |    Lightweight Directory Access Protocol
-| 389                |    Connection-less Lightweight Directory Access Protocol
-| 443                |    HTTPS
+| 389                |    Lightweight Directory Access Protocol (LDAP)
+| 389                |    Connection-less Lightweight Directory Access Protocol (CLDAP)
+| 443                |    Hypertext Transfer Protocol Secure (HTTPS)
 | 444                |    TA14-353a, Dell SonicWALL
-| 445                |    SMB
-| 465                |    SMTPS
+| 445                |    Server Message Block (SMB)
+| 465                |    Simple Mail Transfer Protocol Secure (SMTPS)
 | 500                |    Internet Key Exchange [VPN]
 | 502                |    Modbus
 | 503                |    MOdbus
@@ -55,9 +55,9 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 523                |    IBM DB2
 | 554                |    RTSP
 | 587                |    SMTP mail Submission
-| 623                |    Intelligent Platform Management Interface
+| 623                |    Intelligent Platform Management Interface (IPMI)
 | 626                |    OS X serial Numbered
-| 636                |    Lightweight Directory Access Protocol over TLS/SSL 
+| 636                |    Lightweight Directory Access Protocol over TLS/SSL(LDAPS)
 | 666                |    Telnet
 | 771                |    Realport
 | 789                |    Readlion Crimson3
