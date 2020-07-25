@@ -1,5 +1,5 @@
 # Network-Ports-and-Service-Protocol
-List of major Networking Ports and Service that operate in them
+I have Curated list of Major Networking Ports and Service that operate in them. Feel Free to Submit Pull Request For commitment  
 
 | Network Port       | Service                                            |
 | -----------------  |    ---------------------------------------         |
