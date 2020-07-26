@@ -9,14 +9,14 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 15                 |    Netstat                                         |  
 | 17                 |    Quote of Day                                    |  
 | 19                 |    Character Generator                             |  
-| 21                 |    FTP                                             | 
-| 22                 |    SSH                                             | 
+| 21                 |    File Transfer Protocol (FTP)                    | 
+| 22                 |    Secure Shell (SSH)                              | 
 | 23                 |    Telnet                                      
-| 25                 |    SMTP                     
+| 25                 |    Simple Mail Transfer Protocol (SMTP)                     
 | 37                 |    rdate
 | 49                 |    TACACS+
-| 53                 |    DNS
-| 67                 |    DHCP
+| 53                 |    Domain Name System (DNS)
+| 67                 |    Dynamic Host Configuration Protocol (DHCP)
 | 69                 |    TFTP, BitTorrent
 | 70                 |    Gopher
 | 79                 |    Finger
@@ -32,7 +32,7 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 111                |    Portmapper   
 | 113                |    identd
 | 119                |    NNTP 
-| 123                |    NTP
+| 123                |    Network TIme Protocol ( NTP )
 | 129                |    Password generator protocol
 | 137                |    NetBIOS
 | 143                |    IMAP 
