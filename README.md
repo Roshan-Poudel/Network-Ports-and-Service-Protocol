@@ -199,10 +199,11 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 9151               |    Tor Control
 | 9160               |    Apache Cassandra
 | 9191               |    Sierra wireless (HTTP)
+| 9300               |    Elastic Search
 | 9418               |    Git
 | 9443               |    Sierra wireless (HTTPS)
 | 9595               |    LANDesk Management Agent
-| 9600               |    OMRON
+| 9600               |    Logstash
 | 9633               |    DarkTrack Remote Access Trojan
 | 9869               |    OpenNebula
 | 10001              |    Automated Tank Gauge
