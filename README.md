@@ -215,5 +215,39 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 17185              |    VxWorks WDBRPC
 | 12345              |    Sierra wireless (Telnet)
 | 11300              |    Beanstalk
-
- | 
+| 13579              |    Media player classic web Interface
+| 14147              |    Filezilla File Transfer Protocol (FFTP)
+| 16010              |    Apache Hbase
+| 16992              |    Intel Active Management Technology (AMT)
+| 16993              |    Intel Active Management Technology (AMT)
+| 18245              |    General Electric Secure Real-Time Transport Protocol 
+| 20000              |    Distributed Network Protocol 3 (DNP3)
+| 20547              |    ProconOS
+| 21025              |    Starbound
+| 21379              |    Matrikon Process Control (MOPC)
+| 23023              |    Telnet
+| 23424              |    Serviio
+| 25105              |    Insteon Hub
+| 25565              |    Minecraft
+| 27015              |    Steam A2S server query, SteamRCon
+| 27016              |    Steam A2S server query
+| 27017              |    MongoDB
+| 28015              |    Steam A2S server query
+| 28017              |    MongoDB (HTTP)
+| 30313              |    Gardasoft Lighting
+| 30718              |    Lantronix Setup
+| 32400              |    Plex
+| 37777              |    Dahuva DVR
+| 44818              |    EtherNet/IP
+| 47808              |    Bacnet
+| 49152              |    Supermicro (HTTP)
+| 49153              |    WeMo Link
+| 50070              |    HDFS Namenode
+| 51106              |    Deluge (HTTP)
+| 53413              |    Netis backdoor
+| 54138              |    Toshiba point-of-service (POS)
+| 55443              |    McAfee
+| 55553              |    Metasploit
+| 55554              |    Metasploit
+| 62078              |    Apple iDevice
+| 64738              |    Mumble
