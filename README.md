@@ -171,3 +171,49 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 8008               |    Chromecast
 | 8009               |    Vizio HTTPS
 | 8010               |    Intelbras DVR
+| 8060               |    Roku Web Interface
+| 8069               |    Open ERP
+| 8087               |    Riak
+| 8090               |    Insteon HUB
+| 8099               |    Yahoo SmartTV
+| 8112               |    Deluge (HTTP)
+| 8126               |    StatsD
+| 8139               |    Puppet Agent
+| 8140               |    Puppet Master
+| 8140               |    Puppet Master
+| 8181               |    GlassFish Server (HTTPS)
+| 8333               |    Bitcoin
+| 8334               |    Bitcoin node dashboard (HTTP)
+| 8443               |    Hypertext Transfer Protocol Secure (HTTPS)
+| 8554               |    Real Time Streaming Protocol (RTSP) 
+| 8880               |    Websphere SOAP
+| 8888               |    HTTP, Andromouse
+| 8889               |    SmartThings Remote Access
+| 9000               |    Vizio  Hypertext Transfer Protocol Secure (HTTPS)
+| 90001              |    Tor OR
+| 90002              |    Tor OR
+| 9009               |    Julia
+| 9042               |    Cassandra Query Language (CQL)
+| 9051               |    Tor Control
+| 9100               |    Printer Job Language
+| 9151               |    Tor Control
+| 9160               |    Apache Cassandra
+| 9191               |    Sierra wireless (HTTP)
+| 9418               |    Git
+| 9443               |    Sierra wireless (HTTPS)
+| 9595               |    LANDesk Management Agent
+| 9600               |    OMRON
+| 9633               |    DarkTrack Remote Access Trojan
+| 9869               |    OpenNebula
+| 10001              |    Automated Tank Gauge
+| 10001              |    Ubiquiti
+| 10243              |    Microsoft-HTTPAPI/2.0
+| 10554              |    Real Time Streaming Protocol (RTSP)
+| 11211              |    Memcache
+| 12345              |    Malware
+| 17000              |    Bose SoundTouch
+| 17185              |    VxWorks WDBRPC
+| 12345              |    Sierra wireless (Telnet)
+| 11300              |    Beanstalk
+
+ | 
