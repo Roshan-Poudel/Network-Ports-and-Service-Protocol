@@ -31,12 +31,12 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 110                |    POP3
 | 111                |    Portmapper   
 | 113                |    identd
-| 119                |    NNTP 
+| 119                |    Network News Transfer Protocol (NNTP) 
 | 123                |    Network TIme Protocol ( NTP )
 | 129                |    Password generator protocol
 | 137                |    NetBIOS
-| 143                |    IMAP 
-| 161                |    SNMP
+| 143                |    Internet Message Access Protocol (IMAP) 
+| 161                |    Simple Network Management Protocol (SNMP)
 | 175                |    IBM VMNet
 | 179                |    Border Gateway Protocl (BGP)
 | 195                |    TA14-353a  
