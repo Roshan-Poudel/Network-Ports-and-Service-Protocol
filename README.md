@@ -26,7 +26,7 @@ Feel Free to Submit Pull Request For commitment. I'll merge it.
 | 80                 |    HTTP, malware
 | 81                 |    HTTP, malware
 | 82                 |    HTTP, malware
-| 83                 |    HTTP
+| 83                 |    HTTP 
 | 84                 |    HTTP
 | 88                 |    Kerberos
 | 102                |    Siemens S7
