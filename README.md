@@ -73,7 +73,7 @@ Feel Free to Submit Pull Request . I'll merge it.
 | 1023               |    Telnet
 | 1025               |    Kamstrup
 | 1099               |    Java remote method invocation
-| 1177               |    Malware
+| 1177               |    DKMessenger Protocol
 | 1200               |    Codesys
 | 1234               |    UDPXY
 | 1400               |    SONOS (speakers)
@@ -121,7 +121,7 @@ Feel Free to Submit Pull Request . I'll merge it.
 | 3702               |    Open Network Video Interface Forum (Onvif)
 | 3780               |    Metasploit  
 | 3787               |    Ventrilo
-| 4000               |    Malware
+| 4000               |    Terabase
 | 4022               |    Udpxy
 | 4040               |    Deprecated Chef web Interface (DCWI)
 | 4063               |    ZeroC Glacier2
