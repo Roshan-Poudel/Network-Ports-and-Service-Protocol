@@ -1,6 +1,6 @@
 # Network-Ports-and-Service-Protocol
 I have Curated list of Major Networking Ports and Service that operate in them.     
-To prepare this, Comprehensive Research was carried out on de-facto sources like [Shodan](https://shodan.io/)
+To prepare this, Comprehensive Research was carried out on de-facto sources like [Shodan](https://shodan.io/), [IANA](https://www.iana.org/), [APNIC](https://www.apnic.net/), [ARIN](https://www.arin.net/), [Ciso Talos](https://talosintelligence.com/),[SANS](https://www.sans.org/), 
 
 
 
