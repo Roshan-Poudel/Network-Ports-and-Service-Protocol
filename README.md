@@ -1,6 +1,5 @@
 # Network-Ports-and-Service-Protocol
-I have Curated list of Major Networking Ports and Service that operate in them. 
-  
+I have Curated list of Major Networking Ports and Service that operate in them.     
 To prepare this, Comprehensive Research was carried out on de-facto sources like [Shodan](https://shodan.io/)
 
 
