@@ -127,3 +127,47 @@ I have Curated list of Major Networking Ports and Service that operate in them. 
 | 4157               |    DarkTrack Remote Access Trojan (RAT)
 | 4369               |    Erlang Port Mapper Daemon (EPMD)
 | 4443               |    Symantec Data Center Security (SDCS)
+| 4444               |    Malware
+| 4500               |    IPsec-NAT-Transversal
+| 4567               |    Modem web interface
+| 4664               |    Qasar
+| 4730               |    Gearman
+| 4782               |    Qasar
+| 4800               |    Moxa N Port
+| 4840               |    OPC Unified Architecture
+| 4911               |    Niagara Fox with SSL
+| 4949               |    Munin
+| 5006               |    MELSEC-Q
+| 5007               |    MELSEC-Q
+| 5008               |    NetMobility
+| 5009               |    Apple Airport Administration
+| 5060               |    Session Initiation Protocol
+| 5094               |    HART-IP
+| 5222               |    Extensible Messaging and Presence Protocol
+| 5269               |    Extensible Messaging and Presence Protocol Server to Server
+| 5353               |    mDNS
+| 5357               |    Microsoft-HTTP API/2.0
+| 5432               |    Postgre SQL
+| 5577               |    Flux LED
+| 5601               |    Kibana
+| 5632               |    PC Anywhere
+| 5672               |    Rabbit MQ
+| 5900               |    Virtual Network Computing (VNC)
+| 5901               |    Virtual Network Computing (VNC)
+| 5938               |    Team Viewer
+| 5984               |    Couch DB
+| 6000               |    X11
+| 6001               |    X11
+| 6379               |    Redis
+| 6666               |    Voldemort database, Malware
+| 6667               |    Internet Relay Chat (IRC)
+| 6881               |    BitTorrent DHT
+| 6969               |    TFTP, BitTorrent
+| 7218               |    Sierra wireless (Telnet)
+| 7474               |    Neo4j Database
+| 7548               |    CWMP (HTTPS)
+| 7777               |    Oracle
+| 7779               |    Dell Service Tag API
+| 8008               |    Chromecast
+| 8009               |    Vizio HTTPS
+| 8010               |    Intelbras DVR
